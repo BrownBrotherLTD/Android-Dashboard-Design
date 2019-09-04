@@ -1,2 +1,2 @@
-# Android-Profile page-Design
-Material Design of a dashboard for mobile apps
+# Android-Profile Page-Design
+Material Design of a Ptofile Page for mobile apps
